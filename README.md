@@ -2,7 +2,7 @@
 ahk 
 
 pre requirements:
-AutoHotKey 
+AutoHotKey </br>
 SciTE4AutoHotkey
 ShareX
 youtube video controls
