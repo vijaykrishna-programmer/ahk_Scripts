@@ -47,3 +47,7 @@ AutoPaste_In_evernote.ahk
 Regular.ahk
 
 Just Check these files remaning all are similar to 
+
+
+
+
