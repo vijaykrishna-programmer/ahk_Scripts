@@ -18,9 +18,9 @@ This auto hot key scripts works to auto paste screenshort  to evernote and all
 
 With these automation I can grab a screenshort from youtube and paste it into evernote directly by just one click
 
-Take a region screenshot
-take a last region 
-take full screen 
+Take a region screenshot </br>
+take a last region   </br>
+take full screen   </br>
 
 softwares:
 for Screen shorts I have using **ShareX** App and using its shortcuts in the script
