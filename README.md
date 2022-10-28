@@ -26,6 +26,8 @@ get Current time </br>
 
 softwares:
 for Screen shorts I have using **ShareX** App and using its shortcuts in the script
+![image](https://user-images.githubusercontent.com/78497776/198720943-905b11f8-6f1b-411d-990c-73a1ec29dd09.png)
+
 
 extentions:
 for using **youtube video controls** 
