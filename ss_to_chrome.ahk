@@ -1,0 +1,21 @@
+
+;#IfWinActive ahk_class Chrome_WidgetWin_1
+
+CopyARegion() {
+	clipboard := ""
+	Send, !k
+	Sleep, 1500
+	ClipWait, 2
+	WinActivate, Real EState CRM - Zoho Show - Google Chrome
+	Click, 50, 167
+	Sleep, 300
+	Send, ^v
+	Sleep, 300
+	Click, 942 909
+	return
+}
+
+
+!f::
+CopyARegion()
+return

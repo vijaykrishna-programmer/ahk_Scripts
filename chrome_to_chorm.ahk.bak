@@ -1,0 +1,35 @@
+
+
+
+#IfWinActive Zoho Creator - Google Chrome
+
+
+;Videos | Zoho Creator - Google Chrome
+
+
+
+!,::    ; backward
+WinActivate, Videos | Zoho Creator - Google Chrome
+Send, z
+WinActivate, Zoho Creator - Google Chrome
+return
+
+!.::    ; backward
+WinActivate, Videos | Zoho Creator - Google Chrome
+Send, x
+WinActivate, Zoho Creator - Google Chrome
+return
+
+!s::
+WinActivate, Videos | Zoho Creator - Google Chrome
+Send, s
+WinActivate, Zoho Creator - Google Chrome
+return
+
+!d::
+WinActivate, Videos | Zoho Creator - Google Chrome
+Send, d
+WinActivate, Zoho Creator - Google Chrome
+return
+
+
