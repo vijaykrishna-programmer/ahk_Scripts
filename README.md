@@ -1,15 +1,17 @@
 # ahk_Scripts
 ahk 
 
-pre requirements:
-AutoHotKey </br>
-SciTE4AutoHotkey
-ShareX
-youtube video controls
-Tweaks for YouTube
-Screenshot YouTube
+# Auto Screenshort Paste into evernote / (what everapp you need ) use windowsspy app to find the name of the appsAuto Screenshort Paste into evernote / (what everapp you need ) use windowsspy app to find the name of the apps
 
-Auto Screenshort Paste into evernote / (what everapp you need ) use windowsspy app to find the name of the apps
+pre requirements:</br>
+AutoHotKey </br>
+SciTE4AutoHotkey</br>
+ShareX</br>
+youtube video controls</br>
+Tweaks for YouTube</br>
+Screenshot YouTube</br>
+
+
 
 
 This auto hot key scripts works to auto paste screenshort  to evernote and all 
