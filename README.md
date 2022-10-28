@@ -21,6 +21,8 @@ With these automation I can grab a screenshort from youtube and paste it into ev
 Take a region screenshot </br>
 take a last region   </br>
 take full screen   </br>
+grab a frame from youtube </br>
+get Current time </br>
 
 softwares:
 for Screen shorts I have using **ShareX** App and using its shortcuts in the script
